@@ -185,10 +185,10 @@ extra:
 
 
 nav:
-- Home: home.md
+- Home: index.md
 - Contents: chapters/contents.md
 - Introduction: chapters/introduction.md
-- Style Guides: chapters/styles.md
+
 
 - Chapters:
   - 1. Digital Lab Notebook: chapters/chapter-1/Chapter-1-Essay.md
